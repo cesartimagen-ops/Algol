@@ -1,0 +1,6 @@
+#"Git Ignore"
+*.class
+*.exe
+*.tmp
+*.log
+*.vscode
