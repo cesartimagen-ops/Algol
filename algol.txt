@@ -1,1 +1,6 @@
 "Prueba algol"
+"Hola Mundo"
+"Prueba"
+"Mayra"
+"Arturo"
+"Cesar"
